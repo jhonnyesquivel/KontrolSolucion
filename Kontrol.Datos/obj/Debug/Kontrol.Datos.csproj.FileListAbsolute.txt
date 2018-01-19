@@ -1,0 +1,19 @@
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\bin\Debug\Kontrol.Datos.dll.config
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\bin\Debug\Kontrol.Datos.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\bin\Debug\Kontrol.Datos.pdb
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\bin\Debug\EntityFramework.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\bin\Debug\EntityFramework.SqlServer.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\bin\Debug\EntityFramework.xml
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\bin\Debug\EntityFramework.SqlServer.xml
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\obj\Debug\Kontrol.Datos.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Datos\obj\Debug\Kontrol.Datos.pdb
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\bin\Debug\Kontrol.Datos.dll.config
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\bin\Debug\Kontrol.Datos.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\bin\Debug\Kontrol.Datos.pdb
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\bin\Debug\EntityFramework.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\bin\Debug\EntityFramework.SqlServer.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\bin\Debug\EntityFramework.xml
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\bin\Debug\EntityFramework.SqlServer.xml
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\obj\Debug\Kontrol.Datos.csprojResolveAssemblyReference.cache
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\obj\Debug\Kontrol.Datos.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Datos\obj\Debug\Kontrol.Datos.pdb

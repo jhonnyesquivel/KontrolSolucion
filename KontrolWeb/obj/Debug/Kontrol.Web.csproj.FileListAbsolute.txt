@@ -1,0 +1,86 @@
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\csc.exe
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\System.Collections.Immutable.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\System.Reflection.Metadata.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\vbc.exe
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\VBCSCompiler.exe
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\roslyn\VBCSCompiler.exe.config
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.dll.config
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.pdb
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Datos.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Negocio.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\EntityFramework.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Datos.pdb
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Negocio.pdb
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\EntityFramework.xml
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.pdb
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Utilidades.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolWeb\bin\Kontrol.Utilidades.pdb
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\csc.exe
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\System.Collections.Immutable.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\System.Reflection.Metadata.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\vbc.exe
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\VBCSCompiler.exe
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\VBCSCompiler.exe.config
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.dll.config
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.pdb
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Datos.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Negocio.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Utilidades.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\EntityFramework.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Datos.pdb
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Negocio.pdb
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Utilidades.pdb
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\EntityFramework.xml
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.csprojResolveAssemblyReference.cache
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.dll
+H:\TFS\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.pdb
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\csc.exe
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\System.Collections.Immutable.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\System.Reflection.Metadata.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\vbc.exe
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\VBCSCompiler.exe
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\roslyn\VBCSCompiler.exe.config
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.dll.config
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Web.pdb
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Datos.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Negocio.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Utilidades.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\EntityFramework.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Datos.pdb
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Datos.dll.config
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Negocio.pdb
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Negocio.dll.config
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Kontrol.Utilidades.pdb
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\bin\EntityFramework.xml
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.csprojResolveAssemblyReference.cache
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\KontrolWeb\obj\Debug\Kontrol.Web.pdb

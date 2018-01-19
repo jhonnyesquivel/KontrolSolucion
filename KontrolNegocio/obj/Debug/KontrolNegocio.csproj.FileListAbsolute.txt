@@ -1,0 +1,10 @@
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\bin\Debug\KontrolNegocio.dll.config
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\bin\Debug\KontrolNegocio.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\bin\Debug\KontrolNegocio.pdb
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\bin\Debug\EntityFramework.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\bin\Debug\EntityFramework.SqlServer.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\bin\Debug\EntityFramework.xml
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\bin\Debug\EntityFramework.SqlServer.xml
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\obj\Debug\KontrolNegocio.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\obj\Debug\KontrolNegocio.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\KontrolNegocio\obj\Debug\KontrolNegocio.pdb

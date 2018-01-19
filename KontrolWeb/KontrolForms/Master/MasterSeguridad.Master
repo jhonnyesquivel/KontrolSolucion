@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterSeguridad.master.cs" Inherits="Kontrol.Web.KontrolForms.Master.MasterSeguridad" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+    <link rel="stylesheet" href="../../Diseño/bootstrap/css/bootstrap.min.css">
+    <%--    <link rel="stylesheet" href="../../Diseño/CSS/font-awesome.min.css">
+    <link rel="stylesheet" href="../../Diseño/CSS/ionicons.min.css">--%>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="~/Diseño/CSS/AdminLTE.min.css">
+    <link rel="stylesheet" href="~/Diseño/CSS/skins/_all-skins.min.css">
+    <link rel="stylesheet" href="<%= ResolveUrl("~/Diseño/Plugins/datatables/media/css/dataTables.bootstrap.css")%>">
+    <!-- ./wrapper -->
+    <script src="<%= ResolveUrl("~/Diseño/Plugins/jQuery/jquery-2.2.3.min.js")%>"></script>
+    <!-- Bootstrap 3.3.6 -->
+    <script src="<%= ResolveUrl("~/Diseño/bootstrap/js/bootstrap.min.js")%>"></script>
+    <title>Kontrol</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="hold-transition skin-red sidebar-mini">
+
+
+    <form id="form1" runat="server">
+
+        <asp:ContentPlaceHolder ID="body" runat="server">
+        </asp:ContentPlaceHolder>
+
+    </form>
+    <div class="modal" id="modal_notificacion">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Default Modal</h4>
+                </div>
+                <div class="modal-body">
+                    <p>One fine body…</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+
+
+
+    <!-- AdminLTE App -->
+    <script src="<%= ResolveUrl("~/Diseño/JS/app.min.js")%>"></script>
+    <script src="<%= ResolveUrl("~/Diseño/Plugins/datatables/media/js/jquery.dataTables.min.js")%>"></script>
+    <script src="<%= ResolveUrl("~/Diseño/Plugins/datatables/media/js/dataTables.bootstrap.min.js")%>"></script>
+
+
+    <asp:ContentPlaceHolder ID="scripts" runat="server"></asp:ContentPlaceHolder>
+</body>
+</html>

@@ -1,0 +1,10 @@
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Utilidades\bin\Debug\Kontrol.Utilidades.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Utilidades\bin\Debug\Kontrol.Utilidades.pdb
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Utilidades\obj\Debug\Kontrol.Utilidades.dll
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Utilidades\obj\Debug\Kontrol.Utilidades.pdb
+f:\documents\visual studio 2015\Projects\KontrolSolucion\Kontrol.Utilidades\obj\Debug\Kontrol.Utilidades.csprojResolveAssemblyReference.cache
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Utilidades\bin\Debug\Kontrol.Utilidades.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Utilidades\bin\Debug\Kontrol.Utilidades.pdb
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Utilidades\obj\Debug\Kontrol.Utilidades.csprojResolveAssemblyReference.cache
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Utilidades\obj\Debug\Kontrol.Utilidades.dll
+J:\Documents\Escritorio 1\KontrolSolutionRepository\KontrolSolucion\Kontrol.Utilidades\obj\Debug\Kontrol.Utilidades.pdb
